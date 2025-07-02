@@ -1,1 +1,2 @@
-# mohammed
+requirements.txt
+bot.py
